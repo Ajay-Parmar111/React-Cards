@@ -1,2 +1,3 @@
-# React-Cards
-I create multiple of cards in react using fetch api.
+# Create the cards using Fetch Api
+
+* [API](https://jsonplaceholder.typicode.com/posts)

@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  border: 2px solid black;
+  max-width: 25vw;
+  padding: 10px
+}
+
+.container {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+nav,
+ul {
+  display: flex;
+  gap: 34px;
+  background-color: rgb(184, 89, 11);
+  height: 50px;
+  padding: 0px 14px;
+  align-items: center;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+}
+
+li {
+  list-style-type: none;
+}
+
+ .card img{
+  width: 342px;
+  height: 259px;
+  object-fit: cover;
+}
